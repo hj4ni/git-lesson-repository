@@ -1,1 +1,5 @@
-Ez egy minta sz”veg. 
+Ez egy minta szoveg.
+Ez egy minta szoveg.
+Ujabb minta szoveg
+Ez egy minta szoveg.
+Ujabb minta szoveg
